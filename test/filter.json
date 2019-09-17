@@ -1,0 +1,14 @@
+{
+    "Offset": 0,
+    "Limit": 10,
+    "Sort": [{
+        "Field": "CustomerName",
+        "Dir": "desc"
+    }],
+    "Filter": {
+        "Field": "CustomerCity",
+        "Operator": "eq",
+        "Value":"New York",
+        "Logic": "and"
+    }
+}

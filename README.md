@@ -1,5 +1,5 @@
 # blog-dynamic-filter
-This sample is part of the [Dynamic filter with AutoMapper, System.Dynamic.Linq and EntityFramework on ASP.NET Core tutorial](https://hodo.ro/posts/post-03-dynamic-filter-ef/). See the tutorial for details on the code for this sample.
+This sample is part of the [Dynamic filter with AutoMapper, System.Dynamic.Linq and EntityFramework on ASP.NET Core tutorial](https://hodo.dev/posts/post-03-dynamic-filter-ef/). See the tutorial for details on the code for this sample.
 
 ## Build and run
 

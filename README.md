@@ -6,7 +6,7 @@ This sample is part of the [Dynamic filter with AutoMapper, System.Dynamic.Linq 
 To build and run the sample, execute the following command:
 
 ```console
-# Clone the repositoty
+# Clone the repository
 git clone https://github.com/gabihodoroaga/demo-dynamic-filters.git
 cd demo-dynamic-filters
 
